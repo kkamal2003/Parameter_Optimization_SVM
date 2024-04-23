@@ -21,6 +21,11 @@
 - The results were stored in a pandas DataFrame for further analysis and comparison.
 
 #### Results:
-- The results show the best accuracy achieved along with the corresponding values of C, gamma, and kernel for each sample.
+- The results show the best accuracy achieved along with the corresponding values of C, gamma, and kernel for each sample.  
+![image](https://github.com/kkamal2003/Parameter_Optimization_SVM/assets/126082752/1302674e-5e07-4b44-9964-d0c1a29b3c89)
+
 - The DataFrame provides insights into the performance of SVM models with different hyperparameter configurations across multiple random samples.
 - This approach helps in understanding the variability of model performance and selecting the most suitable hyperparameters for robust SVM models.
+
+- The Convergence Graph of Accuracy scores:
+  ![image](https://github.com/kkamal2003/Parameter_Optimization_SVM/assets/126082752/b829bb5e-9830-4047-8553-a17a44864f8f)
